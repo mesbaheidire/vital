@@ -1,0 +1,8 @@
+# Requirements for TikTok Uploader Application
+
+flask
+requests
+pytube
+aiohttp
+selenium
+tiktokapi
